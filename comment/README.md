@@ -25,6 +25,16 @@ In this model, many toxic comments have been fed to build a `Bidirectional Long 
 - textblob 0.15.3+
 - Flask 2.0.0+
 
+git clone https://github.com/PavaniReddy-26/CodTech_Toxic_Comment_Detection.git
+cd CodTech_Toxic_Comment_Detection
+
+python -m venv venv311
+
+# Windows
+venv311\Scripts\activate
+
+pip install -r requirements.txt
+
 ## Dataset
 
 You can downloaded the dataset from [kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). Use the underlying download link to download the dataset.
