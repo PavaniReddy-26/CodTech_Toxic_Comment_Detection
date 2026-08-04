@@ -1,10 +1,4 @@
 
-
-
-<p align="center">
-  <img width="721" alt="web-app-screencast" src="https://user-images.githubusercontent.com/76659596/108608735-37663d00-73c9-11eb-8e6e-304dd535f527.gif">
-</p>
-
 ## Motivation
 
 People tend to discuss or share opinions on social platforms but such activities sometimes encounter threats or harassments which compel people to not express themselves properly.
